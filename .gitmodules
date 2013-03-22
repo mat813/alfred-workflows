@@ -16,3 +16,6 @@
 [submodule "alfred-wikipedia.fr-suggest"]
 	path = alfred-wikipedia.fr-suggest
 	url = https://github.com/mat813/alfred-wikipedia.fr-suggest.git
+[submodule "alfred-process-killer"]
+	path = alfred-process-killer
+	url = https://github.com/nathangreenstein/alfred-process-killer.git
