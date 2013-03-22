@@ -1,0 +1,18 @@
+[submodule "alfred-amazon.fr-suggest"]
+	path = alfred-amazon.fr-suggest
+	url = https://github.com/mat813/alfred-amazon.fr-suggest.git
+[submodule "alfred-favorites-folder"]
+	path = alfred-favorites-folder
+	url = https://github.com/mat813/alfred-favorites-folder.git
+[submodule "alfred-google.fr-suggest"]
+	path = alfred-google.fr-suggest
+	url = https://github.com/mat813/alfred-google.fr-suggest
+[submodule "alfred-urbandictionary-suggest"]
+	path = alfred-urbandictionary-suggest
+	url = https://github.com/mat813/alfred-urbandictionary-suggest
+[submodule "alfred-wikipedia.en-suggest"]
+	path = alfred-wikipedia.en-suggest
+	url = https://github.com/mat813/alfred-wikipedia.en-suggest.git
+[submodule "alfred-wikipedia.fr-suggest"]
+	path = alfred-wikipedia.fr-suggest
+	url = https://github.com/mat813/alfred-wikipedia.fr-suggest.git
